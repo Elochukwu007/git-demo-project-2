@@ -1,3 +1,8 @@
 initial content
+<<<<<<< HEAD
 add more content
 some more content
+=======
+even more 
+even more content
+>>>>>>> house-of-cards
